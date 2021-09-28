@@ -1,0 +1,1 @@
+export const EDIT_TITLE = 'edit_title';
